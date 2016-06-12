@@ -1,9 +1,10 @@
 body {
-	color: blue;
+	color: black;
 }
 
 .motivation {
 	font-size: 50px;
+	color:black;
 }
 
 .road {
